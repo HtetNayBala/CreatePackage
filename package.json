@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "'A San Lay Par Kwar'",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -22,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/HtetNayBala/CreatePackage/issues"
   },
-  "homepage": "https://github.com/HtetNayBala/CreatePackage#readme"
+  "homepage": "https://github.com/HtetNayBala/CreatePackage#readme",
+  "dependencies": {
+    "show-my-name": "^1.0.9"
+  }
 }
