@@ -1,0 +1,26 @@
+{
+  "name": "show-my-name",
+  "version": "1.0.0",
+  "description": "'A San Lay Par Kwar'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HtetNayBala/CreatePackage.git"
+  },
+  "keywords": [
+    "\"San",
+    "Kyi",
+    "Yone",
+    "Lay",
+    "Par\""
+  ],
+  "author": "\"MeHNB\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HtetNayBala/CreatePackage/issues"
+  },
+  "homepage": "https://github.com/HtetNayBala/CreatePackage#readme"
+}
